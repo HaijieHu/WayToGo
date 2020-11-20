@@ -1,0 +1,2 @@
+# WayToGo
+Go beginner
